@@ -10,7 +10,6 @@ It helps you add, list, and delete expenses. Data is stored in MongoDB Atlas.
 ✅ Add new expense with:
 - Title
 - Amount
-- Category
 - Date
 
 ✅ View all expenses  
